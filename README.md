@@ -9,9 +9,9 @@ This is a multiple linear regression analysis to show which features has a high 
 The variables are:
 
 Dependent Variable:
-* Price -  is prediction target
+* Price - The target
 
-Predictors
+Predictors:
 * Brand - The brand and make of car
 * Body - The body type of the selected make of car
 * Mileage - The car travel mileage
@@ -24,7 +24,7 @@ Predictors
 The data can be found in Kaggle https://www.kaggle.com/datasets/smritisingh1997/car-salescsv
 
 ### Data Example
-### Visual 1
+
 ![graph1](./images/data1.png)
 
 ### Business Objective
@@ -33,12 +33,13 @@ The aim of this study is to provide an understanding on the features that influe
 
 ## Methodology
 
-This analysis follows the OSEMN Data Science Process
-OBTAIN
-SCRUB
-EXPLORE
-MODEL
-INTERPRET
+This analysis follows the OSEMN Data Science Process:
+
+* OBTAIN
+* SCRUB
+* EXPLORE
+* MODEL
+* INTERPRET
 
 ## Result
 
