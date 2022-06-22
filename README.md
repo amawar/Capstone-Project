@@ -43,7 +43,7 @@ This analysis follows the OSEMN Data Science Process:
 
 ## Result
 
-Price is the dependent variable
-18 Predictors
-88.5% of variations explained in our model
-Registered cars are the top predictor for car price
+* Price is the dependent variable
+* 18 Predictors
+* 88.5% of variations explained in our model
+* Registered cars are the top predictor for car price
